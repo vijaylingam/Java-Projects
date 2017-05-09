@@ -1,0 +1,8 @@
+ClassAllot README (NEW)
+
+1) Sharing Excel sheets with columns: Course, Professor Name, compliment of Teaching Preference
+2) Convert back complimentary preference list to normal
+3) Add in clashses for the corresponding courses
+4) Add in course capacity for each course
+5) Export the excel sheet as .csv
+6) Input this csv along with the other two input .csv's (ROOOMS.csv, TIMINGS.csv)
